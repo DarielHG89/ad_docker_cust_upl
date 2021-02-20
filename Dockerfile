@@ -9,6 +9,6 @@ FROM busybox
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
 # ADD https://www.googleapis.com/drive/v3/files/_____________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 
- ADD https://ava1.androidfilehost.com/dl/fu0D392DYxoWhEBmRL-ptA/1613883806/962339331458995165/SM-J120W_1_20171117153723_9t25bdfv18.rar /datosdescargados/j120w
-  
+ADD https://www.googleapis.com/drive/v3/files/1YJMpxvEnYrdSZfF68sMfw7mNgLEnm3sy?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/j120w
+
 CMD echo "Descargado"
