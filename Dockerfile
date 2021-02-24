@@ -10,10 +10,6 @@ FROM busybox
 # ADD https://www.googleapis.com/drive/v3/files/_____________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 
  
-# ADD https://www.googleapis.com/drive/v3/files/12iOULllhRHNmoW5ItGQWRB04Pp7YhHk3?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Bob.Ombs.Modified.Win10PEx64.v4.6.7z
-# ADD https://www.googleapis.com/drive/v3/files/0B-o-S1Ld1ZTiWUZSdkZhUkFoSkE?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/AIO_Boot_Extractor.exe
-# ADD https://www.googleapis.com/drive/v3/files/1025WTYt422hEJPZL6nVAtXkm8FaOQrx6?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/DLC.Boot.2019.V3.6.rar
-
  ADD https://www.googleapis.com/drive/v3/files/1-SttAQg0yMEQ6NRT_1sklVApI9cHAVCA?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book_3_Fire_-_Chapter_14_-_The_Boiling_Rock_Part1.avi
  ADD https://www.googleapis.com/drive/v3/files/10GF-V0r-GkKbH0ru6O1xdOF9w3KmsXML?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book_3_Fire_-_Chapter_20_-_Sozins_Comet,_Part_3_-_Into_the_Inferno.avi
  ADD https://www.googleapis.com/drive/v3/files/10S6CcYiieS43KXb8WXCfKJoqDOQOvGI5?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book_3_Fire_-_Chapter_04_-_Sokkas_Master.avi
@@ -35,6 +31,6 @@ FROM busybox
  ADD https://www.googleapis.com/drive/v3/files/13XN-ouPfEwgo2FBYSBtrNx5xt4CyYepz?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book_3_Fire_-_Chapter_21_-_Sozins_Comet,_Part_4_-_Avatar_Aang.avi
  ADD https://www.googleapis.com/drive/v3/files/13f-SAJ6DDs1O_UcE-3BYBeiIz0eTIncr?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Avatar_-_The_Last_Airbender_-_Book_3_Fire_-_Chapter_10-11_-_Day_of_Black_Sun_Part_1-2.avi
  ADD https://www.googleapis.com/drive/v3/files/13m6H5_Aa1qgQSpg0FMNdXppHorTR7Bcv?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/setup_neighbours_back_from_hell_1.2_(43288).exe
-
+ 
 
 CMD echo "Descargado"
