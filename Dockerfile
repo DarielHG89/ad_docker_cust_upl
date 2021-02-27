@@ -9,6 +9,6 @@ FROM busybox
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
 # ADD https:/ /www.googleapis.com/drive/v3/files/_____________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 
-  ADD https://versaweb.dl.sourceforge.net/project/ai2offline/2.8/AI2Offline_x64.exe /datosdescargados/AI2Offline
+  ADD https://dl2.repack.me/files/topaz/Topaz.Gigapixel.AI.v5.4.5.exe /datosdescargados/Topaz.Gigapixel.AI.v5.4.5
 
 CMD echo "Descargado"
