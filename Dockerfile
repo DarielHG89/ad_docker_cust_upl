@@ -9,6 +9,6 @@ FROM busybox
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
 # ADD https:/ /www.googleapis.com/drive/v3/files/_____________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 
-  ADD https://dl2.repack.me/files/topaz/Topaz.Gigapixel.AI.v5.4.5.exe /datosdescargados/Topaz.Gigapixel.AI.v5.4.5
+ ADD https://www.googleapis.com/drive/v3/files/1-B6wru6oB79EsnVsGE8IZcW9vkMUyNZr?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Autodesk_3ds_Max_2021_1_Win_64bit.iso
 
 CMD echo "Descargado"
