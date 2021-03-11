@@ -3,7 +3,7 @@
 ############################################################
 
 # Set the base image
-FROM darielhg89/docker_cust_upl
+FROM busybox
 
 # url to download ex: ADD https://dl.dropboxusercontent.com /datosdescargados/
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
