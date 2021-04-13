@@ -9,6 +9,6 @@ FROM busybox
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
 # ADD https:/ /www.googleapis.com/drive/v3/files/_____________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 
-ADD https://dl.espressif.com/github_assets/espressif/arduino-esp32/releases/download/1.0.5-rc5/xtensa-esp32-elf-win32-1.22.0-97-gc752ad5-5.2.0.zip /datosdescargados/xtensa-esp32-elf-win32-1.22.0-97-gc752ad5-5.2.0.zip
+ADD https:/ /www.googleapis.com/drive/v3/files/1AwS8GWNzfH0xCdn64tlg0Bdb_pQ0TTaj?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/nokia.7z
 
 CMD echo "Descargado"
