@@ -9,6 +9,6 @@ FROM busybox
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
 # ADD https://www.googleapis.com/drive/v3/files/_____________________?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 
-ADD https://www.googleapis.com/drive/v3/files/0B6GMk1nlFqTYUXFDOVJrNWx5NWM?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/MT6582__alps__alps__w8220_td_sy_64_8__4.2.2__ALPS.JB5.MP.V1.6.zip
+ADD http://huaweidevices.ru/huaweiserviceworkarchivehuawei/G750/Huawei_Honor_3X_G750-U10_V100R001C00B112_CUSTC432D001_Germany_SD_Update.rar /datosdescargados/Huawei_Honor_3X_G750-U10_V100R001C00B112_CUSTC432D001_Germany_SD_Update.rar
 
 CMD echo "Descargado"
