@@ -7,8 +7,8 @@ FROM busybox
 
 # url to download ex: ADD https://dl.dropboxusercontent.com /datosdescargados/
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
-# ADD https://www.googleapis.com/drive/v3/files/17mWYFDe0HEhrmV23BD2i025rvWLnj5iw?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
+# ADD https://www.googleapis.com/drive/v3/files/____?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 
-ADD https://www.googleapis.com/drive/v3/files/1nRkliNFrP8JnUptT0_gGUMQ6QfLAxL4J?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/s5690.zip
+ADD https://ava5.androidfilehost.com/dl/zo2CIOyU0-549Rz8JX3zng/1622845942/24566454284190968/XEF-S5690XXMA1-20130110--www.SamSony.net--.zip /datosdescargados/XEF-S5690XXMA1-20130110--www.SamSony.net--.zip
 
 CMD echo "Descargado"
