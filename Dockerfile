@@ -8,7 +8,7 @@ FROM busybox
 # url to download ex: ADD https://dl.dropboxusercontent.com /datosdescargados/
 # ADD https://dl.dropboxusercontent.com/s/____________________/___________________?dl=0 /datosdescargados/__________________________
 # ADD https://www.googleapis.com/drive/v3/files/____?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
-# ADD ____ /datosdescargados/
+# ADD ____ /datosdescargados/ 
 
 ADD https://store.down-apk.com/d/whatsapp-messenger_2.21.12.14(211214002).apk?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiY29tLndoYXRzYXBwJTJGMi4yMS4xMi4xNCUyRjIxMTIxNDAwMi40OWNkOTkwZmRlNDExMjEwYTU1MzEzYjE3Yzg1MWI3OTlkMmFiZDM5LmFwayIsImlhdCI6MTYyMzQxMTQ3MH0.wcBPNro_IuhonMwPCY_Fenb10RXpMAB0n_-Y35yq7-w&package_name=com.whatsapp /datosdescargados/WhatsAppMessenger2.21.12.14-v7a.apk
 ADD https://store.down-apk.com/d/whatsapp-messenger_2.21.12.14(211214004).apk?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiY29tLndoYXRzYXBwJTJGMi4yMS4xMi4xNCUyRjIxMTIxNDAwNC4xOTM4YmUxMGFiYmQwMjdlOWFiMmQyMWI4NTFmN2YxNmI4ZmRiYmNiLmFwayIsImlhdCI6MTYyMzQxMTQ3MH0.tGFyEPoEtPp9tIUlWlLxn9XKov-WNUreuH1E_xvlJE0&package_name=com.whatsapp /datosdescargados/WhatsAppMessenger2.21.12.14-v8a.apk
