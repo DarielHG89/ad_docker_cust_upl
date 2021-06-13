@@ -10,7 +10,10 @@ FROM busybox
 # ADD https://www.googleapis.com/drive/v3/files/____?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 # ADD ____ /datosdescargados/ 
 
- ADD https://www.googleapis.com/drive/v3/files/10QL3rv03-y07CXCEqa-X_VKBsew--Xic?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/apk.zip
+ ADD https://www.googleapis.com/drive/v3/files/1fh8bhlN76Nh0zq2FFsltcu_iXBVztLUa?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/SpeedifyInstaller.exe
+ ADD https://www.googleapis.com/drive/v3/files/1-2oH7qf0Zhf8cVMnqcr1N_NdSsPV2b1k?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/musica.z01
+ ADD https://www.googleapis.com/drive/v3/files/1-63RU-JEQWm4fgHZun3T6qxKqKWK5Ndc?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/musica.zip
+
 
 
 CMD echo "Descargado"
