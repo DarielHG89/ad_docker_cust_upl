@@ -10,10 +10,8 @@ FROM busybox
 # ADD https://www.googleapis.com/drive/v3/files/____?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 # ADD ____ /datosdescargados/ 
 
- ADD https://www.googleapis.com/drive/v3/files/1fh8bhlN76Nh0zq2FFsltcu_iXBVztLUa?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/SpeedifyInstaller.exe
- ADD https://www.googleapis.com/drive/v3/files/1-2oH7qf0Zhf8cVMnqcr1N_NdSsPV2b1k?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/musica.z01
- ADD https://www.googleapis.com/drive/v3/files/1-63RU-JEQWm4fgHZun3T6qxKqKWK5Ndc?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/musica.zip
-
+ ADD https://www.googleapis.com/drive/v3/files/1Qm57Rw-LmDZRsZeA8uriwKqeMLD6r7G1?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_15-V3C1Y4A6SH4RD.part7.rar
+ ADD https://www.googleapis.com/drive/v3/files/1TJvm9mZnHQ5DyH2wuVgUU-qY744GPu6g?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Copia_de_[SphinxAnime]_15-V3C1Y4A6SH4RD.part6.rar
 
 
 CMD echo "Descargado"
