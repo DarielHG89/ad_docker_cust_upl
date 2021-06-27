@@ -11,6 +11,6 @@ FROM busybox
 # ADD https://www.googleapis.com/drive/v3/files/____?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/__________.rar
 # ADD ____ /datosdescargados/ 
 
- ADD https://www.googleapis.com/drive/v3/files/1BI5n-yKSBgj1Njv6vxW3Csreg5l_6peF?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/Setup_Miracle_Moto_Tool_2.07-Software_Cr_Ck_Guru.rar
+ ADD https://na-server2.files.nopy.to/1624860749/6PxqVaMmF71XXvat5qP0og/68aa535de844c8c5efbc19427e3b34b34de45531712a201828f26ab91a4c168a/BrokenDreamers-1.09-pc.zip?s=0aab963ad21c5bec9c72df8b73f690b32fe75f8c /datosdescargados/BrokenDreamers-1.09-pc.zip
 
 CMD echo "Descargado"
