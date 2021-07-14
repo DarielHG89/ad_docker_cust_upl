@@ -23,6 +23,4 @@ FROM busybox
  ADD https://www.googleapis.com/drive/v3/files/10wqtDVtidvW2R6Bf0XCaQQT_8CEzI6pB?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/EInfil103720p_[www.newpct1.com].mkv
 
 
-
-
 CMD echo "Descargado"
