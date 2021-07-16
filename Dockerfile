@@ -16,5 +16,5 @@ FROM busybox
 # ADD https://github-releases.githubusercontent.com/48965681/863a8780-20df-11ea-861f-211bf8c22293?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210704%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210704T061340Z&X-Amz-Expires=300&X-Amz-Signature=6aa748feee3f8c4bec7a430db6a4565e35918920bc392f80b740b5a2a8c0afc5&X-Amz-SignedHeaders=host&actor_id=44080270&key_id=0&repo_id=48965681&response-content-disposition=attachment%3B%20filename%3Dsuperpowers-v6.1.0-win-x64.zip&response-content-type=application%2Foctet-stream /datosdescargados/superpowers-v6.1.0-win-x64.zip
 
 
-ADD https://www.googleapis.com/drive/v3/files/18Pec9Fz5FgHcSnh7RW7U60am8Da3UpHm?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/w11
+ADD https://cdn-download.xyz/download/file/V2luZG93czExUHJvSW5zaWRlclByZXZpZXcuMTAuMC4yMjAwMC42NS54NjQuTXVsdGlsYW5ndWFnZS52LnRhaXdlYnMuY29tLnppcA== /datosdescargados/Windows11ProInsiderPreview.10.0.22000.65.x64.Multilanguage.v.taiwebs.com.zip
 CMD echo "Descargado"
