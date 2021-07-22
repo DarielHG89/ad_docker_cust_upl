@@ -16,5 +16,12 @@ FROM busybox
 # ADD https://github-releases.githubusercontent.com/48965681/863a8780-20df-11ea-861f-211bf8c22293?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210704%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210704T061340Z&X-Amz-Expires=300&X-Amz-Signature=6aa748feee3f8c4bec7a430db6a4565e35918920bc392f80b740b5a2a8c0afc5&X-Amz-SignedHeaders=host&actor_id=44080270&key_id=0&repo_id=48965681&response-content-disposition=attachment%3B%20filename%3Dsuperpowers-v6.1.0-win-x64.zip&response-content-type=application%2Foctet-stream /datosdescargados/superpowers-v6.1.0-win-x64.zip
 
 
-ADD https://cdn-download.xyz/download/file/RGlza0dlbml1c1Byb2Zlc3Npb25hbDUuNC4yLjEyMzkudi50YWl3ZWJzLmNvbS5yYXI= /datosdescargados/DiskGeniusPro5.4.2.1239
+ ADD https://www.googleapis.com/drive/v3/files/1--QQL1hWkTEYKTDkkWqYmTOs0iG5rcwG?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/pixar2.z02
+ ADD https://www.googleapis.com/drive/v3/files/1-3vvqJS6BLueeZ4gJf7XUCiTSFhOFHsb?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/pixar2.z03
+ ADD https://www.googleapis.com/drive/v3/files/1-9lsqSdjRVsly5EGrUKLzcDupAsb1M-I?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/pixar2.z04
+ ADD https://www.googleapis.com/drive/v3/files/1-9yrJ4SQxY2SFJ0JwweByUKuQ9wmHUvC?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/pixar2.z05
+ ADD https://www.googleapis.com/drive/v3/files/1-DB6glASWYNBVzsf_OM7Yyly06WhaGcg?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/pixar2.z06
+ ADD https://www.googleapis.com/drive/v3/files/1-ITsxawjJ1qHkXdBl26b7mJVcnfHKjPC?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/pixar2.zip
+ ADD https://www.googleapis.com/drive/v3/files/1IYhc0nOJ8mQOon4h3fi0LeUwd-FwO592?alt=media&key=AIzaSyC8Mplx6BIUXnj_FETnm3QEZSwDnMYLQMA /datosdescargados/pixar2.z01
+
 CMD echo "Descargado"
